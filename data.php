@@ -129,6 +129,17 @@ $teams = [
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg',
         'group' => 'D'
     ],
+
+    'Liverpool FC' => [
+        'league' => 'Women\’s Super League (England)',
+        'uefa-coefficient-ranking' => '🤔',
+        'city' => 'Liverpool',
+        'url' => 'https://www.liverpoolfc.com/',
+        'logo' => 'https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg',
+        'group' => '🥴'
+    
+
+    ]
  
 ]
 

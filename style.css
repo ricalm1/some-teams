@@ -1,9 +1,9 @@
 body {
 display: flex;
 gap: 10px;
-flex-direction: column;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1280px-UEFA_Champions_League.svg.png);
-justify-content: flex-start;
+ /* background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1280px-UEFA_Champions_League.svg.png); */
+background-size: 200px;
+
 
 }
 
@@ -16,8 +16,9 @@ margin-right: 20px;
 }
 
 h1 {
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     display: inline-block;
+
 }
 
 
@@ -38,13 +39,24 @@ a:hover{
 
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: #696969;
+    background-color:  rgba(60, 56, 56, 0.7  );
     width: 30px;
     border-radius: 6px;
     border:1px solid black;
-    padding: 10px;
-    width: 225px;
+    padding: 30px;
+    width: 300px;
+    flex-direction: row;
 
+}
+
+.array {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card img{
+
+    width: 80px;
 }
 
 .card h2{
@@ -54,7 +66,13 @@ a:hover{
 }
 
 .card ul{
-    text-decoration: none;
+    list-style-type: none;
+    padding: 20px;
+    
+}
+
+li{
+    padding: 10px;
 }
 
 
