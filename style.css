@@ -1,10 +1,63 @@
-.array {
+body {
+display: flex;
+gap: 10px;
+flex-direction: column;
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1280px-UEFA_Champions_League.svg.png);
+justify-content: flex-start;
+
+}
+
+header{
+display: flex;
+font-size: 40px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+justify-content: flex-end;
+margin-right: 20px;
+}
+
+h1 {
+    background-color: aquamarine;
+    display: inline-block;
+}
+
+
+a{
+
+
+    text-decoration: none;
+}
+
+a:hover{
+
+    text-decoration: underline;
+
+}
+
+
+.card {
 
     font-size: 20px;
-    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #696969;
+    width: 30px;
+    border-radius: 6px;
+    border:1px solid black;
+    padding: 10px;
+    width: 225px;
+
 }
 
-img {
-width: 50px;
-
+.card h2{
+    font-size: 30px;
+    font-weight: bold;
+    color:aqua;
 }
+
+.card ul{
+    text-decoration: none;
+}
+
+
+
+
+
