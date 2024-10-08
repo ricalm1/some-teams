@@ -73,13 +73,13 @@ $teams = [
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png',
         'group' => 'A'
     ],
-    'Hammarby' => [
-        'league' => 'Damallsvenskan (Sweden)',
-        'uefa-coefficient-ranking' => 'Not ranked',
-        'city' => 'Stockholm',
-        'url' => 'https://www.hammarbyfotboll.se/',
-        'logo' => 'https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Hammarby_IF_logo.svg/1200px-Hammarby_IF_logo.svg.png',
-        'group' => 'D'
+    'Liverpool FC' => [
+        'league' => 'Women\’s Super League (England)',
+        'uefa-coefficient-ranking' => '🥴',
+        'city' => 'Liverpool',
+        'url' => 'https://www.liverpoolfc.com/',
+        'logo' => 'https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg',
+        'group' => 'N/A'
     ],
     'Juventus' => [
         'league' => 'Serie A (Italy)',
@@ -130,17 +130,11 @@ $teams = [
         'group' => 'D'
     ],
 
-    'Liverpool FC' => [
-        'league' => 'Women\’s Super League (England)',
-        'uefa-coefficient-ranking' => '🤔',
-        'city' => 'Liverpool',
-        'url' => 'https://www.liverpoolfc.com/',
-        'logo' => 'https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg',
-        'group' => '🥴'
+   
     
 
     ]
  
-]
+
 
 ;  

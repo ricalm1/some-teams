@@ -9,9 +9,11 @@
 
      foreach ($teams as $name => $info): ?>
        
-            <div class ="card">
+        <div class ="card">
         <ul>
+            <div class ="image">
             <img src="<?php echo ($info['logo']); ?>"/>
+            </div>
             <li>Team: <?php echo $name ?></li> 
             <li>League: <?php echo ($info['league']); ?> </li>
             <li> UEFA Coefficient ranking: <?php echo ($info['uefa-coefficient-ranking']); ?></li>
