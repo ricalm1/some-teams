@@ -12,4 +12,7 @@
  WEBSITE
  [www.https://rickardalmgren.se/]
 
+ GITHUB
+ [https://github.com/ricalm1]
+
  This project is licensed under the MIT license. See the license file for more details.
