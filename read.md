@@ -11,3 +11,5 @@
 
  WEBSITE
  [www.https://rickardalmgren.se/]
+
+ This project is licensed under the MIT license. See the license file for more details.

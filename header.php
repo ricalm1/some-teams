@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <header><a href="about.php" class="button" > About</a><br> <a href="https://www.svenskalag.se/tbis">Honorable mention</a> </header>
+    <header><a href="about.php"> About</a><br> <a href="https://www.svenskalag.se/tbis">Honorable mention</a> </header>
     <h1>Champions league teams</h1>
    
 </body>

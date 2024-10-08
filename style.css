@@ -1,6 +1,6 @@
 body {
 
- /* background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1280px-UEFA_Champions_League.svg.png);  */
+
 background-size: 50px;
 background-color:antiquewhite;
 
@@ -22,6 +22,7 @@ h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     margin: 20px;
+    color: dodgerblue;
 
 }
 
@@ -98,7 +99,29 @@ li{
     padding: 10px;
 }
 
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    border-top: 1px solid black;
+    padding: 10px 0px;
+}
 
+.box {
+    margin: auto;
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-radius: 20%;
+    width: 500px;
+    padding: 20px;
+   
+}
 
+.tbis {
+
+ display: flex;
+ justify-content: center;
+
+}
 
 
